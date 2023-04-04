@@ -5,8 +5,6 @@ draft = false
 pinned = false
 image = ""
 +++
-
-
 **Einleitung**
 
 Am 21.02.2023, einem warmen Dienstagnachmittag, besuchten wir, Cedric und Finn das Naturhistorische Museum. Zusammen wollten wir unser Wissen über die Paläontologie aufrüsten, um das Wissen dann in diese Reportage einzubringen. Wir waren verabredet mit der Kuratorin Ursula Menkveld und dem Fossilienpräparator Gino Bernasconi.
@@ -23,7 +21,7 @@ Nach gut einer Stunde war unser Besuch im Naturhistorischen Museum vorbei und wi
 
 Paläontologie ist für viele Menschen eine faszinierende Wissenschaft. Oft beginnt das Interesse an Fossilien schon im Kindesalter. Die Paläontologie beschäftigt sich im Allgemeinen mit der Erde vor unserer Zeitrechnung. Dabei bekommen Paläontolog*innen manchmal auf eine ganz besondere Weise einen Einblick, wie und in welcher Umgebung Tiere oder Pflanzen gelebt haben könnten. So auch Gino Bernasconi, Fossilienpräparator am Naturhistorischen Museum Bern. Wir haben uns mit ihm und Frau Ursula Menkveld dort verabredet. Mit Frau Menkveld tauschten wir uns über Genetik und Paläontologie aus, während wir mit Herrn Bernasconi über seine Erfahrungen sprachen. Wir durften dabei in das Zimmer für die Präparationen der Fossilien und erhielten somit gerade auch einen Einblick in die Tätigkeit von Herrn Bernasconi. Er erzählte uns, dass er früh an Fossilien interessiert war. Für ihn erzählt jedes Fossil seine eigene Geschichte. Zum Beispiel erzählte uns Herr Bernasconi, dass er einmal ein Fossil gefunden habe, welches einen Kiefer hatte, der in der Mitte um fast 90° gebrochen war.  Mit einem Fossil wie diesem lässt sich mehr als nur das Tier selbst rekonstruieren. Es ist möglich, auf die Todesursache dieses Tieres zu schliessen. Es gibt auch hin und wieder Fossilien, die Bisspuren aufweisen, oder bei denen man Knochen eines anderen Tiers gefunden hat. Selten kann man ganze Gruppen von Tieren finden. So kann man Rückschlüsse darauf ziehen, wie die Tiere zusammengelebt haben und ob sie Freund oder Feind waren.
 
-![](bild3.jpg)
+![]()
 
 Die Paläontologie kann noch mehr als das, denn mithilfe von Paläontologie lassen sich geologische Prozesse und Wetterphänomene erkennen. Vulkanausbrüche sind ein gutes Beispiel dafür, denn man kann sie in den verschiedenen Sedimentschichten nachweisen. Auch die Plattentektonik liess sich zum Teil mit Paläontologie belegen, da der deutsche Meteorologe, Polarforscher und Physiker Alfred Wegener Fossilien fand, die zur gleichen Art gehörten, jedoch auf verschiedenen Kontienten zu finden waren. Mithilfe von Paläontologie kann man auch die Veränderung der Landschaft über die Zeit analysieren, da verschiedene Sedimentschichten jeweils für eine andere Zeit stehen. So kann abgelesen werden, wie schnell und wann ein Gebirge entstanden ist. Auf diese Weise können auch die Sedimentschichten uns Geschichten davon erzählen, was sich auf der Erde vor unserer Zeit abgespielt hat.
 
