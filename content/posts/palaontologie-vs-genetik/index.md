@@ -3,7 +3,10 @@ title = "Paläontologie vs Genetik"
 date = "2023-04-03"
 draft = false
 pinned = false
+image = ""
 +++
+
+
 **Einleitung**
 
 Am 21.02.2023, einem warmen Dienstagnachmittag, besuchten wir, Cedric und Finn das Naturhistorische Museum. Zusammen wollten wir unser Wissen über die Paläontologie aufrüsten, um das Wissen dann in diese Reportage einzubringen. Wir waren verabredet mit der Kuratorin Ursula Menkveld und dem Fossilienpräparator Gino Bernasconi.
@@ -16,15 +19,13 @@ Nach einiger Zeit führte uns Frau Menkveld zu Gino Bernasconi, welcher uns die 
 
 Nach gut einer Stunde war unser Besuch im Naturhistorischen Museum vorbei und wir liefen mit Information beladen zurück ins Schulhaus. Rückblickend können wir sagen, dass uns der Besuch im Naturhistorischen Museum sehr gefallen hat und auf jeden Fall sehr informativ war.
 
- 
-
 **Die Möglichkeiten der Paläontologie**
 
 Paläontologie ist für viele Menschen eine faszinierende Wissenschaft. Oft beginnt das Interesse an Fossilien schon im Kindesalter. Die Paläontologie beschäftigt sich im Allgemeinen mit der Erde vor unserer Zeitrechnung. Dabei bekommen Paläontolog*innen manchmal auf eine ganz besondere Weise einen Einblick, wie und in welcher Umgebung Tiere oder Pflanzen gelebt haben könnten. So auch Gino Bernasconi, Fossilienpräparator am Naturhistorischen Museum Bern. Wir haben uns mit ihm und Frau Ursula Menkveld dort verabredet. Mit Frau Menkveld tauschten wir uns über Genetik und Paläontologie aus, während wir mit Herrn Bernasconi über seine Erfahrungen sprachen. Wir durften dabei in das Zimmer für die Präparationen der Fossilien und erhielten somit gerade auch einen Einblick in die Tätigkeit von Herrn Bernasconi. Er erzählte uns, dass er früh an Fossilien interessiert war. Für ihn erzählt jedes Fossil seine eigene Geschichte. Zum Beispiel erzählte uns Herr Bernasconi, dass er einmal ein Fossil gefunden habe, welches einen Kiefer hatte, der in der Mitte um fast 90° gebrochen war.  Mit einem Fossil wie diesem lässt sich mehr als nur das Tier selbst rekonstruieren. Es ist möglich, auf die Todesursache dieses Tieres zu schliessen. Es gibt auch hin und wieder Fossilien, die Bisspuren aufweisen, oder bei denen man Knochen eines anderen Tiers gefunden hat. Selten kann man ganze Gruppen von Tieren finden. So kann man Rückschlüsse darauf ziehen, wie die Tiere zusammengelebt haben und ob sie Freund oder Feind waren.
 
-Die Paläontologie kann noch mehr als das, denn mithilfe von Paläontologie lassen sich geologische Prozesse und Wetterphänomene erkennen. Vulkanausbrüche sind ein gutes Beispiel dafür, denn man kann sie in den verschiedenen Sedimentschichten nachweisen. Auch die Plattentektonik liess sich zum Teil mit Paläontologie belegen, da der deutsche Meteorologe, Polarforscher und Physiker Alfred Wegener Fossilien fand, die zur gleichen Art gehörten, jedoch auf verschiedenen Kontienten zu finden waren. Mithilfe von Paläontologie kann man auch die Veränderung der Landschaft über die Zeit analysieren, da verschiedene Sedimentschichten jeweils für eine andere Zeit stehen. So kann abgelesen werden, wie schnell und wann ein Gebirge entstanden ist. Auf diese Weise können auch die Sedimentschichten uns Geschichten davon erzählen, was sich auf der Erde vor unserer Zeit abgespielt hat.
+![](bild3.jpg)
 
- 
+Die Paläontologie kann noch mehr als das, denn mithilfe von Paläontologie lassen sich geologische Prozesse und Wetterphänomene erkennen. Vulkanausbrüche sind ein gutes Beispiel dafür, denn man kann sie in den verschiedenen Sedimentschichten nachweisen. Auch die Plattentektonik liess sich zum Teil mit Paläontologie belegen, da der deutsche Meteorologe, Polarforscher und Physiker Alfred Wegener Fossilien fand, die zur gleichen Art gehörten, jedoch auf verschiedenen Kontienten zu finden waren. Mithilfe von Paläontologie kann man auch die Veränderung der Landschaft über die Zeit analysieren, da verschiedene Sedimentschichten jeweils für eine andere Zeit stehen. So kann abgelesen werden, wie schnell und wann ein Gebirge entstanden ist. Auf diese Weise können auch die Sedimentschichten uns Geschichten davon erzählen, was sich auf der Erde vor unserer Zeit abgespielt hat.
 
 **Die Grenzen der Paläontologie**
 
@@ -33,12 +34,6 @@ Die Paläontologie kann noch mehr als das, denn mithilfe von Paläontologie lass
 In den letzten Jahren hat die Genetik in der Wissenschaft immer mehr an Wichtigkeit gewonnen, die Paläontologie im Gegensatz, scheint in den letzten Jahren an Wichtigkeit verloren zu haben. Laut Ursula Menkveld sind Paläontologen weniger gefragt, einzig in Museen braucht es Paläontologen noch.
 
 Paläontologie ist zweifelsohne eine sehr wichtige Wissenschaft und war uns Menschen in der Vergangenheit sehr behilflich, jedoch hat sie auch einige Mängel aufzuweisen. Findet man zum Beispiel ein altes Krokodil mit genetischen Spuren hat man mit der Genetik die Möglichkeit, die Verwandtschaft mit heutigen Krokodilen zu überprüfen und zu vergleichen, dies ist rein mit der Paläontologie nicht möglich. Eine andere Schwierigkeit in der Paläontologie ist die Auswertbarkeit der Fossilien. Ursula Menkveld meinte ausserdem, als wir Sie nach den Mängeln der Paläontologie gefragt haben, dass niemand wirklich der Paläontologie etwas entgegenhalten kann. Dies ist so gemeint, dass man sehr schlecht das Gegenteil beweisen kann. Wenn also ein Paläontologe ein Fossil eines Dinosauriers mit Bissspuren findet und dann sagt, der Dinosaurier sei durch einen Biss gestorben, könnte er auch z.B. ertrunken sein. Die Paläontologie ist wie gesagt eine sehr ungenaue Wissenschaft und hat viel mit Interpretation zu tun. Basierend auf Informationen, welche man aus einzelnen Fossilien herausnimmt, versuchen Paläontolog*innen die Vergangenheit zu rekonstruieren. Dies ist sehr schwierig und hat daher auch viel mit Hypothetik zu tun. In der Paläontologie kann man nie eindeutig sagen, wie es war, deswegen gibt es auch die Debatte, welche Farbe denn die Dinosaurier wirklich hatten, die Annahmen zu diesem Thema basieren eigentlich auf dem Vergleich mit den heutigen Vögeln. Dieser spekulative Teil zeigt klar die Grenzen der Paläontologie auf.
-
-
-
-
-
-
 
 **Der Einsatz der Genetik**
 
